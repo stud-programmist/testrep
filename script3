@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#команда ping ya.ru
+ping -c 5 8.8.8.8
+
+#команда host
+host vk.com
+
+#команда netstat
+netstat -nap
+
+
+
